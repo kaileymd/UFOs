@@ -17,7 +17,7 @@ The Comments column does not have a filter at this time.
 
 
 ## Summary
-While this project accomplishes Dana's needs, it is not an optimized website. *All* of her data is displayed in the table, no matter row many rows of data she may have. If she decided to further support her article with even more data points, the webpage would become very long and information intensive due to the size of her table. This would reduce the speed at which her website loads, make the table hard to use, and the table even less mobile friendly than it already is.
+While this project accomplishes Dana's needs, it is not an optimized website. **All** of her data is displayed in the table, no matter how many rows of data she may have. If she decided to further support her article with even more data points, the webpage would become very long and information intensive due to the size of her table. This would reduce the speed at which her website loads, make the table hard to use, and the table even less mobile friendly than it already is.
 
 If Dana intends to improve or otherwise continue use of this webiste, I would recommend:
 - research and implementation of table pagination to reduce the amount of information displayed by the table at a singule time without compromising the amount of data or webpage loading time
